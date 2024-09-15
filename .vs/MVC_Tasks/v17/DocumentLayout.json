@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DEBI\\Assignment\\MVC_Tasks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC70DA69-C170-41C9-B9EA-7DDB7F706012}|MVC_Tasks\\MVC_Tasks.csproj|d:\\debi\\assignment\\mvc_tasks\\mvc_tasks\\models\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC70DA69-C170-41C9-B9EA-7DDB7F706012}|MVC_Tasks\\MVC_Tasks.csproj|solutionrelative:mvc_tasks\\models\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC70DA69-C170-41C9-B9EA-7DDB7F706012}|MVC_Tasks\\MVC_Tasks.csproj|d:\\debi\\assignment\\mvc_tasks\\mvc_tasks\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC70DA69-C170-41C9-B9EA-7DDB7F706012}|MVC_Tasks\\MVC_Tasks.csproj|solutionrelative:mvc_tasks\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC70DA69-C170-41C9-B9EA-7DDB7F706012}|MVC_Tasks\\MVC_Tasks.csproj|d:\\debi\\assignment\\mvc_tasks\\mvc_tasks\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC70DA69-C170-41C9-B9EA-7DDB7F706012}|MVC_Tasks\\MVC_Tasks.csproj|solutionrelative:mvc_tasks\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC70DA69-C170-41C9-B9EA-7DDB7F706012}|MVC_Tasks\\MVC_Tasks.csproj|d:\\debi\\assignment\\mvc_tasks\\mvc_tasks\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC70DA69-C170-41C9-B9EA-7DDB7F706012}|MVC_Tasks\\MVC_Tasks.csproj|solutionrelative:mvc_tasks\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC70DA69-C170-41C9-B9EA-7DDB7F706012}|MVC_Tasks\\MVC_Tasks.csproj|d:\\debi\\assignment\\mvc_tasks\\mvc_tasks\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC70DA69-C170-41C9-B9EA-7DDB7F706012}|MVC_Tasks\\MVC_Tasks.csproj|solutionrelative:mvc_tasks\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC70DA69-C170-41C9-B9EA-7DDB7F706012}|MVC_Tasks\\MVC_Tasks.csproj|d:\\debi\\assignment\\mvc_tasks\\mvc_tasks\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC70DA69-C170-41C9-B9EA-7DDB7F706012}|MVC_Tasks\\MVC_Tasks.csproj|solutionrelative:mvc_tasks\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\DEBI\\Assignment\\MVC_Tasks\\MVC_Tasks\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "MVC_Tasks\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\DEBI\\Assignment\\MVC_Tasks\\MVC_Tasks\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "MVC_Tasks\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T13:36:34.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "D:\\DEBI\\Assignment\\MVC_Tasks\\MVC_Tasks\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "MVC_Tasks\\Models\\RegisterModel.cs",
+              "ToolTip": "D:\\DEBI\\Assignment\\MVC_Tasks\\MVC_Tasks\\Models\\RegisterModel.cs",
+              "RelativeToolTip": "MVC_Tasks\\Models\\RegisterModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T13:19:52.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\DEBI\\Assignment\\MVC_Tasks\\MVC_Tasks\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "MVC_Tasks\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\DEBI\\Assignment\\MVC_Tasks\\MVC_Tasks\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "MVC_Tasks\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T13:19:04.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyContext.cs",
+              "DocumentMoniker": "D:\\DEBI\\Assignment\\MVC_Tasks\\MVC_Tasks\\Models\\MyContext.cs",
+              "RelativeDocumentMoniker": "MVC_Tasks\\Models\\MyContext.cs",
+              "ToolTip": "D:\\DEBI\\Assignment\\MVC_Tasks\\MVC_Tasks\\Models\\MyContext.cs",
+              "RelativeToolTip": "MVC_Tasks\\Models\\MyContext.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwBcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T13:07:52.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\DEBI\\Assignment\\MVC_Tasks\\MVC_Tasks\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC_Tasks\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\DEBI\\Assignment\\MVC_Tasks\\MVC_Tasks\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVC_Tasks\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T13:03:09.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\DEBI\\Assignment\\MVC_Tasks\\MVC_Tasks\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "MVC_Tasks\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\DEBI\\Assignment\\MVC_Tasks\\MVC_Tasks\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "MVC_Tasks\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAkwDMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:28:38.232Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
